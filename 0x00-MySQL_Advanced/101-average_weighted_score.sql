@@ -1,4 +1,4 @@
-QL script that creates a stored procedure ComputeAverageWeightedScoreForUsers that computes and store the average weighted score for all users.
+-- SQL script that creates a stored procedure ComputeAverageWeightedScoreForUsers that computes and store the average weighted score for all users.
 
 DELIMITER $$
 DROP PROCEDURE IF EXISTS ComputeAverageWeightedScoreForUsers;
